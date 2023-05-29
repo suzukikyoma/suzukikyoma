@@ -1,7 +1,7 @@
 # Suzuki Kyoma
 
 - Profole
-  - 筑波大学総合学域群第2類$\rightarrow$工学システム学類
+  - 筑波大学総合学域群第2類→工学システム学類
   - [sohosai](https://github.com/sohosai) 22stage/23dan
   - 剣道初段
   - 弓道弐段
